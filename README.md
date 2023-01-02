@@ -33,7 +33,7 @@ Considering the dataset we do the following:\
 ● Unit sales by year?\
 ● Top 10 accounts by unit sales or CAGR?\
 ● Effectiveness of different marketing programs by the number of sales driven?\
-● Sales by account type?\
+● Sales by account type?
 
 The important part of this exercise is to begin thinking in the mindset of using dashboards to tell the story of our data and support the data-driven business decisions that relate to the data.
 
