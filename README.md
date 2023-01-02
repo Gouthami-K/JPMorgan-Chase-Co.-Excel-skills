@@ -19,11 +19,7 @@ Visual Basic for Applications (VBA) is a useful language to learn and skill to d
 Excel has two methods built-in for creating macros. The easiest way is to “record” the macro, which means telling Excel to “watch” our actions as we do a task using the keyboard and mouse and automatically create a list of commands in VBA that correspond to those actions. Then, we can tell Excel to automatically run that list of commands over and over as needed. That list or script of commands is our macro, and we can assign it to a button on the screen to run it at will. The other method for creating macros is to write the list of commands (the VBA code) ourself without having Excel watch our actions and generate that list for you.  
 
 The task is to familiarize with recording and using simple macros in Excel, and then create two macros using the same dataset as that of Task1.
- 
-Then, create two macros and associate them with buttons we add to our spreadsheet.  
-
-Create two macros and associated buttons:
-
+Then, create two macros and associate them with buttons we add to our spreadsheet.\
 ● A macro to sort the entire spreadsheet by 5 YR CAGR in descending order to see which accounts have the highest overall 5-year sales growth\
 ● A macro to sort the entire spreadsheet by 2021 unit sales in descending order to see which accounts have the highest overall unit sales in 2021
 
@@ -32,7 +28,7 @@ When we are finished, you will have two buttons that let you very quickly and ea
 ## Data Visualization in Excel
 The task is to create a simple dashboard using the account sales dataset we worked with in prior tasks. 
 
-Considering the dataset we do the following:
+Considering the dataset we do the following:\
 ● What charts and graphs would be useful related to this data?\
 ● Unit sales by year?\
 ● Top 10 accounts by unit sales or CAGR?\
