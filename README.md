@@ -24,7 +24,7 @@ Then, create two macros and associate them with buttons we add to our spreadshee
 
 Create two macros and associated buttons:
 
-● A macro to sort the entire spreadsheet by 5 YR CAGR in descending order to see which accounts have the highest overall 5-year sales growth
+● A macro to sort the entire spreadsheet by 5 YR CAGR in descending order to see which accounts have the highest overall 5-year sales growth\
 ● A macro to sort the entire spreadsheet by 2021 unit sales in descending order to see which accounts have the highest overall unit sales in 2021
 
 When we are finished, you will have two buttons that let you very quickly and easily see two ways of analyzing account sales data to inform account planning and other operational decision-making and quickly switch between them.  
@@ -33,11 +33,11 @@ When we are finished, you will have two buttons that let you very quickly and ea
 The task is to create a simple dashboard using the account sales dataset we worked with in prior tasks. 
 
 Considering the dataset we do the following:
-● What charts and graphs would be useful related to this data? 
-● Unit sales by year? 
-● Top 10 accounts by unit sales or CAGR? 
-● Effectiveness of different marketing programs by the number of sales driven? 
-● Sales by account type? 
+● What charts and graphs would be useful related to this data?\
+● Unit sales by year?\
+● Top 10 accounts by unit sales or CAGR?\
+● Effectiveness of different marketing programs by the number of sales driven?\
+● Sales by account type?\
 
 The important part of this exercise is to begin thinking in the mindset of using dashboards to tell the story of our data and support the data-driven business decisions that relate to the data.
 
