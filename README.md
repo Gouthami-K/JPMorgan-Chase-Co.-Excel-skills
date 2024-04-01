@@ -37,10 +37,16 @@ Considering the dataset we do the following:\
 
 The important part of this exercise is to begin thinking in the mindset of using dashboards to tell the story of our data and support the data-driven business decisions that relate to the data.
 
+![Task 4](res/task.png) 
+
 ## Data-Driven Storytelling 
 The task is to write a short PowerPoint presentation to communicate key insights and data from the analysis and visualization work in the prior task.\
 From that work, we have insights into which accounts are and are not performing well, how sales are growing year over year, which account types are selling more units than others, and other kinds of findings that we could communicate. 
 
+## Certification
+Congratulations! I have obtained the certification.
+
+![Certification](./res/jpmorgan_certification.jpg)  
 
 
 
